@@ -2,13 +2,14 @@
 This is a WhatsApp-bulk-Sender developed in python using Selenium helps in sending messages to specified whatsapp contacts using web.whatsapp.com.
 
 This allow user to send number of messages to saved whatsapp contact/contacts. 
+![image](https://raw.githubusercontent.com/Manikanta-cs/WhatsApp-bulk-Sender/master/images/image1.PNG)
 
 ### Step1: Install Selenium
 
 ```$pip install selenium ```
 
 ### Step 2: Download Chrome Webdriver
-Download chromedriver using [this](https://sites.google.com/a/chromium.org/chromedriver/') link.
+Download chromedriver using [this](https://sites.google.com/a/chromium.org/chromedriver/) link.
 
 
 ### Step 3: Clone this repository
